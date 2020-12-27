@@ -1,2 +1,2 @@
-# little-help-book-app
-The mobile centric version of The Little Help Book.
+# material-blazor-base
+Canonical Blazor with boostrap swapped for Material.Blazor
